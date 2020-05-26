@@ -1,0 +1,6 @@
+aws_profile    = "personal"
+aws_region     = "us-east-1"
+env            = "stage"
+s3_bucket      = "karthik-terraform-state"
+s3_bucket_name = "stage"
+dynamodb_table = "terraform-state"
